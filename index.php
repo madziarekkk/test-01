@@ -14,7 +14,7 @@
  */
 
 include_once("pimcore/config/startup.php");
-
+var_dump('aaaaaa');
 try {
 	Pimcore::run();
 
